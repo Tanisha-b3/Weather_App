@@ -34,8 +34,8 @@ cd weather-dashboard
 ### Installation
 ```bash
 npm install
-
-### Install shadcn/ui Components
+2. Install shadcn/ui Components
+### Install
 ```bash
 npx shadcn@latest add button
 npx shadcn@latest add input
