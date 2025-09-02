@@ -13,7 +13,7 @@ A modern, responsive weather application built with React, Vite, and Tailwind CS
 - 💾 Recent search history with localStorage persistence
 - 🩺 Health recommendations based on weather conditions
 - 📱 Fully responsive design
-- 🎨 Beautiful UI with dynamic background based on weather
+- 🎨 Beautiful UI with a dynamic background based on the weather
 
 ## Technologies Used
 
@@ -34,9 +34,9 @@ cd weather-dashboard
 ### Installation
 ```bash
 npm install
+```
 
 ## 2. Install shadcn/ui Components
-### Install
 ```bash
 npx shadcn@latest add button
 npx shadcn@latest add input
@@ -133,13 +133,6 @@ export default defineConfig({
 
 ---
 
-## 🔑 Environment Variables
-Create a `.env` file in the root directory:
-```env
-VITE_APP_NAME=Weather Dashboard
-```
-
----
 
 ## 📦 Building for Production
 ```bash
